@@ -1,9 +1,9 @@
 <SignedPaytable>
 	<Key>wwpublic1</Key>
-	<Signature>Fktizzt2OOVYaiqj6kcX3qVQLTN73PqSwmx1ROngaugQeO8PEuaDnFzplrt62S2Bu4rhqMFOYphH23NGN9J70m0GWq/B2mpEW7C83sj3t62zHo2H3oQmauLCDaR1iuwBy1ZLeaClskTUmZ35c9djowMcX2zrG2FiwiKFO68MIzs=</Signature>
-	<Digest>wMlJ0SM275LW6dyygEXojXqQJM4=</Digest>
+	<Signature>sw22TDPhYZ7NTVId8qggN5gS3TF6q6Vrs3164ZJ7lYAtA+kAWdiK7eKWMPpy6oORDj62SZLgXCb6ZtktMczLRqPOJPMXtdCGQlAV9DdOEtuxUUGv4XLgvGitYASq23O1NKKLdWjhWYjvYc8/Q1BIi79L9Ks9w1CrfoBWuqwTVDo=</Signature>
+	<Digest>DzaXN6mzXDIjH3AOMaeUqG8dsvM=</Digest>
 	<DigestedData>
-		<StageModel className="" version="2.1.10">
+		<StageModel className="" version="2.1.15">
 			<Stage name="Wager">
 				<ExecutionModel>
 					<Default>Wager_Buy</Default>
